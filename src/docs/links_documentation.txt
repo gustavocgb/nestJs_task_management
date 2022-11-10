@@ -1,0 +1,6 @@
+NestJs
+https://docs.nestjs.com/
+https://docs.nestjs.com/cli/overview
+
+class-validator
+https://github.com/typestack/class-validator
