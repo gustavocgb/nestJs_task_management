@@ -1,0 +1,7 @@
+typeOrm:
+.generating module or controller or service ..
+nest g <module> <name>
+
+flag
+.criar sem arquivo .spec
+--no-spec
