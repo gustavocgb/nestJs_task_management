@@ -14,3 +14,6 @@ https://orkhan.gitbook.io/typeorm/docs/active-record-data-mapper
 
 strong password regex
 https://gist.github.com/arielweinberger/18a29bfa17072444d45adaeeb8e92ddc
+
+json web token (jwt)
+https://jwt.io/
