@@ -17,3 +17,6 @@ https://gist.github.com/arielweinberger/18a29bfa17072444d45adaeeb8e92ddc
 
 json web token (jwt)
 https://jwt.io/
+
+serialize user data
+https://gist.github.com/arielweinberger/f5c02406b48bb0e145e8542c7006649f
